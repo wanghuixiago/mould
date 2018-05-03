@@ -1,0 +1,27 @@
+#message div,#call_way div{
+    display: inline-block; 
+    padding-right: 30px;
+ }
+ #message div span{
+     font-weight: bolder;
+ }
+ body{
+     padding:0;
+     margin:0;
+ }
+ #left{
+     float: left;
+     width: 240px;
+     height: 650px;
+     background-color: #65A4FA;
+     text-align: center;
+     padding-top:100px;
+ }
+ #right{
+     height: 650px;
+     float: left;
+     padding-left:20px;
+ }
+ h1{
+     color: white;
+ }

@@ -1,0 +1,7 @@
+#message div,#call_way div{
+   display: inline-block; 
+   padding-right: 30px;
+}
+#message div span{
+    font-weight: bolder;
+}
